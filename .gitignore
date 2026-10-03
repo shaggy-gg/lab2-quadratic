@@ -1,0 +1,26 @@
+# Временные файлы
+*.tmp
+*.log
+*.bak
+
+# Артефакты сборки
+build/
+dist/
+
+# Окружение Python
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+
+# Данные отчёта (не версионируются)
+report_data/
